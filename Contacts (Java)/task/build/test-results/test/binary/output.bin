@@ -1,0 +1,24 @@
+[1;31m
+Start test 1[0m
+"Object deserialized successfully.
+
+ Object serialized successfully.
+
+:[menu] Enter action (add, list, search, count, exit): > 
+> exit
+ Object serialized successfully.
+
+[1;31m
+Start test 2[0m
+"Object deserialized successfully.
+
+ Object serialized successfully.
+
+:[menu] Enter action (add, list, search, count, exit): > 
+> count
+The Phone Book has 3 records
+
+:[menu] Enter action (add, list, search, count, exit): > 
+> exit
+ Object serialized successfully.
+

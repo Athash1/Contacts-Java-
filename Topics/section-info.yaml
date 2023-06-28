@@ -1,0 +1,19 @@
+content:
+- Abstract class
+- Runtime type checking
+- LocalDate
+- LocalTime
+- LocalDateTime
+- Generics and Object
+- The Collections Framework overview
+- The List interface
+- The Set interface
+- Enumset
+- Encapsulating object creation
+- Command
+- Template method
+- Factory method
+- Abstract factory
+- Command-line arguments
+- Input streams
+- Output streams

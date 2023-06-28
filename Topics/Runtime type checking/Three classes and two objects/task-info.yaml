@@ -1,0 +1,31 @@
+type: choice
+is_multiple_choice: true
+options:
+- text: <b>C.class.isInstance(ac)</b> returns <b>true</b>
+- text: <b>B.class.isInstance(ac)</b> returns <b>false</b>
+- text: <b>B.class.isInstance(ab)</b> returns <b>true</b>
+- text: <b>A.class.isInstance(ac)</b> returns <b>true</b>
+- text: <b>A.class.isInstance(ab)</b> returns <b>true</b>
+- text: <b>C.class.isInstance(ab)</b> returns <b>true</b>
+files:
+- name: src/Task.java
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    public class Task {
+      public static void main(String[] args) {
+        // put your code here
+      }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/3085#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Sun, 18 Jun 2023 04:16:26 UTC"
+record: -1
+selected_options:
+- 1
+- 5
+local_check: false
